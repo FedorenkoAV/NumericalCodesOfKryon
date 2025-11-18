@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Numerical Codes Of Kryon</string>
+    <string name="Title">ЧИСЛОВЫЕ КОДЫ КРАЙОНА</string>
+    <string name="Hint">Введите слово сюда</string>
+    <string name="search_button">Search button</string>
+    <string name="russian">Русский алфавит</string>
+    <string name="kryon">Алфавит Крайона</string>
+    <string-array name="alphabets">
+        <item>Русский алфавит</item>
+        <item>Алфавит Крайона</item>
+    </string-array>
+</resources>
